@@ -139,6 +139,27 @@ Distance between route points  : 15 km
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥 PROGRAM OUTPUT SCREENSHOTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Booking a Taxi
+
+![Taxi Booking](screenshots/booking.png)
+
+### Display Taxi Details
+
+![Taxi Details](screenshots/taxi-details.png)
+
+### Multiple Taxi Allocation Example
+
+![Multiple Taxi Allocation](screenshots/multiple-booking.png)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 EXAMPLE WORKFLOW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -153,16 +174,6 @@ Pickup Time  : 9
 System Output
 -------------
 Taxi-1 is allotted.
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📄 DISPLAY TAXI DETAILS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Taxi-1 Total Earnings: Rs.200
-
-BookingID  CustomerID  From  To  PickupTime  DropTime  Amount
-1          1           A     B   9           10        200
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
